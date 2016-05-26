@@ -1,8 +1,6 @@
-# 100-haikus100-days
+# 100 Haikus 100 days
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.4.
-
-## Getting Started
+An MEAN app to challenge users to write 100 Haikus in 100 consecutive days
 
 ### Prerequisites
 
